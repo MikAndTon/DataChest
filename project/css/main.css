@@ -1,0 +1,12 @@
+@import url('index.css');
+@import url('license.css');
+@import url('files.css');
+@import url('rename.css');
+
+
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
